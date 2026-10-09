@@ -16,11 +16,12 @@ function App() {
           <img src={viteLogo} className="vite" alt="Vite logo" />
         </div>
         <div>
-          <h1>Welcome to Dev B's Feature</h1>
+          <h1>Official App Header (Dev A & Dev B)</h1>
           <p>
-            This is an awesome new header built by Dev B.
+            This is an awesome new header built by Dev B, but please edit <code>src/App.jsx</code> carefully!
           </p>
         </div>
+
         <button
           type="button"
           className="counter"
